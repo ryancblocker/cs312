@@ -1,0 +1,70 @@
+#title {
+    color: red;
+    font-family: cursive;
+}
+#content {
+    width: 50%;
+    margin: auto;
+}
+#navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: green;
+}
+#navbar li {
+    float: left;
+}
+#navbar li a  {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.floatRight {
+    float: right;
+    clear: both;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.floatClear {
+    clear: both;
+}
+
+#facts {
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+#facts {
+    padding: 50px 0;
+    width: 50%;
+    border: 3px solid green;
+    background-color: cornsilk;
+    border-color: green;
+    border-radius: 3px;
+    margin: auto;
+}
+#facts ul {
+    float: clear;
+    list-style-type: "\1F336";
+}
+#facts li {
+    padding-left: 5px;
+}
+.bold {
+    font-weight: bold;
+}
+#citation {
+    clear: both;
+}
+#citation a {
+    background-color: green;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
+
