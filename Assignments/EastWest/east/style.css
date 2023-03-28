@@ -1,0 +1,40 @@
+.topnav {
+  background-color: #2703A6;
+  overflow: hidden;
+}
+
+.topnav a {
+  float: left;
+  color: #ddd;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 16px;
+  font-family: sans-serif;
+}
+
+.topnav a:hover {
+  background-color: #F2B705;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #141259;
+  color: white;
+}
+
+.profilePic {
+  padding-top: 20px;
+}
+
+body {
+  width: 800px;
+  margin: 0 auto;
+  background-color: #F29F05;
+  font-family: sans-serif;
+}
+ul { font-size: 25px; }
+h1 { color: #2703A6; }
+h2 { color: #141259; }
+strong { color: #141259; }
+

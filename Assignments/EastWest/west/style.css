@@ -1,0 +1,44 @@
+/* WEST STYLESHEET */
+
+.topnav {
+background-color: #06070E;
+height: 100%;
+width: 160px;
+position: fixed;
+z-index: 1;
+top: 0;
+left: 0;
+overflow-x: hidden;
+padding-top: 20px;
+}
+
+.topnav a {
+display: block;
+padding: 6px 8px 6px 16px;
+text-decoration: none;
+color: #ddd;
+font-size: 16px;
+font-family: sans-serif;
+}
+
+.topnav a:hover {
+background-color: #29524A;
+color: #fff;
+}
+
+.topnav a.active {
+background-color: #94A187;
+color: #fff;
+}
+
+body {
+background-color: #F7F7F2;
+font-family: sans-serif;
+margin-left: 160px;
+min-width: 600px;
+padding: 0 10px;
+}
+li { font-size: 25px; }
+h1 { color: #29524A; }
+h2 { color: #94A187; }
+strong { color: #94A187; }
